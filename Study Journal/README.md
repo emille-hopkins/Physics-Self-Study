@@ -1,3 +1,3 @@
-#Study Journal
+#Study Plan and Journal
 
-This folder contains a journal of my independent study. It includes a gantt style project tracker as well as monthly journal entries of my own personal thoughts and experiences whilst undertaking independent self study.
+This folder contains the scheduled plan for this independent self-study. All work undertaken during this project is logged within the plan document. Additionally, journal entries have been kept alongside the log in order to detail my experience with the work and to aid me in developing my own thoughts and views on current topics.
